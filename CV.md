@@ -28,7 +28,7 @@ Results-driven Senior QA/QC Specialist with 5+ years of progressive experience o
 ## EXPERIENCE
 
 ### Senior QA/QC Specialist — 780 Company *(Super App — Flights, Hotels & Tours)*
-*Tehran, IR · May 2024 – Present*
+*Tehran, IR · Apr 2025 – Present*
 
 - Owned end-to-end QA strategy across web, PWA, Android, and iOS for a high-scale travel and financial super app (subsidiary of Tehran Internet Holding), increasing overall test coverage from 55% to 90% within the first two quarters.
 - Architected and maintained a scalable test automation framework using Cypress and Playwright with POM design pattern, reducing manual regression effort by 65% and enabling fully automated nightly CI/CD test runs across all product verticals.
@@ -44,7 +44,7 @@ Results-driven Senior QA/QC Specialist with 5+ years of progressive experience o
 ---
 
 ### Junior QA Engineer — Nadin Sadr Aria Company (Nadin Soft)
-*Tehran, IR · May 2022 – May 2024*
+*Tehran, IR · Nov 2021 – Mar 2025*
 
 - Initiated and grew QA practices from the ground up for a software house delivering enterprise web applications, establishing the first formal test documentation and defect tracking processes using Jira.
 - Executed 200+ manual test cases per sprint covering functional, regression, smoke, and UI testing for 5 enterprise applications including Moadian, BI, Samin, Codal, and Bazresi.
